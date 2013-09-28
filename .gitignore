@@ -30,3 +30,10 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.secret
