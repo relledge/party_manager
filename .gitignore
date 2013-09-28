@@ -12,10 +12,21 @@
 /db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
-/log/*.log
-/tmp
 
 /Gemfile.lock
 .rvmrc
 .idea
 /coverage/
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/vendor/bundle
+/log/*
+/tmp/*
+/public/system/*
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
